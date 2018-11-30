@@ -1,0 +1,4 @@
+- Testuaren letra mota "verdana" da. Justifikatuta dago eta 1em tamaina du.
+- Lehenengo irudiak orriaren zabalera osoa okupatzen du.
+- Gainontzeko irudiek 400 pixeleko zabalera daukate. 
+

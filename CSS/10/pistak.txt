@@ -1,0 +1,5 @@
+- Burukoa, goiko menua eta orriaren oina 90% zabalerarekin eta 100 pixeleko altuerarekin.
+- Zati zentralak 90%eko zabalera dauka.Eta 500 pixeleko altuera
+- Ezkerreko menuak 200 pixeleko menua du eta 20 pixeleko ezkerreko margina. Altuera, 50 pixelekoa.
+- Edukieraren sekzioak 220 pixeleko ezkerreko magina dauka, eta 100 pixeleko eskuineko margina. Altuera, 50 pixelekoa.
+

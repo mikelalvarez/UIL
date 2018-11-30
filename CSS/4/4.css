@@ -1,0 +1,27 @@
+h1 
+{
+border-top-style: solid;
+border-right-style: dotted;
+border-bottom-style: solid;
+border-left-style: dotted;
+border-color: blue;
+}
+
+p.goikoa
+{
+border-left: solid;
+border-right: solid;
+border-color: green;
+}
+
+p.galdera
+{
+border-top-style:double;
+border-bottom-style:double;
+border-color:orange;
+}
+
+img
+{
+border:6px dotted red;
+}
