@@ -1,0 +1,84 @@
+13. Ejercicio: Internet
+
+Internet
+El internet (o, también, la internet) es un conjunto descentralizado de redes de comunicación interconectadas que utilizan la familia de protocolos TCP/IP, lo cual garantiza que las redes físicas heterogéneas que la componen como una red lógica única de alcance mundial. Sus orígenes se remontan a 1969, cuando se estableció la primera conexión de computadoras, conocida como ARPANET, entre tres universidades en California (Estados Unidos).
+	
+Uno de los servicios que más éxito ha tenido en internet ha sido la World Wide Web (WWW o la Web), hasta tal punto que es habitual la confusión entre ambos términos. La WWW es un conjunto de protocolos que permite, de forma sencilla, la consulta remota de archivos de hipertexto. Esta fue un desarrollo  posterior (1990) y utiliza internet como medio de transmisión.
+	
+Existen, por tanto, muchos otros servicios y protocolos en internet, aparte de la Web: el envío de correo electrónico (SMTP), la transmisión de archivos (FTP y P2P), las conversaciones en línea (IRC), la mensajería instantánea y presencia, la transmisión de contenido y comunicación multimedia —telefonía (VoIP), televisión (IPTV)—, los boletines electrónicos (NNTP), el acceso remoto a otros dispositivos (SSH y Telnet) o los juegos en línea.
+
+Internet
+Mapa parcial de internet basado en la información obtenida del sitio opte.org en 2005.
+Cada línea entre dos nodos representa el enlace entre dos direcciones IP, y su longitud es proporcional al retardo entre estos.
+	
+Idiomas más empleados (2015)
+inglés (25,9 %)
+chino (20,9 %)
+español (7,6 %)
+árabe (5,0 %)
+portugués (3,9 %)
+japonés (3,4 %)
+ruso (3,1 %)
+malayo (2,9 %)
+francés (2,9 %)
+alemán (2,5 %)
+			
+Usuarios por continente (2015)
+Asia (48,2 %)
+Europa (18,0 %)
+América Latina (10,2 %)
+África (9,8 %)
+América del Norte (9,3 %)
+Oriente Medio (3,7 %)
+Oceanía (0,8 %)
+
+Índice
+Origen
+Tecnología de internet
+Enrutamiento y capas de servicio
+Acceso a Internet
+Nombres de dominio
+Usos modernos
+Impacto social
+Filantropía
+Ocio
+Internet y su evolución
+Efectos de internet en el cerebro
+Fuente de información
+Buscadores
+Índices o directorios temáticos
+Motores de búsqueda
+Metabuscadores
+Trabajo
+Publicidad
+Censura
+Internet en obras de ficción
+Tamaño
+Usuarios
+
+1. Origen
+Sus orígenes se remontan a la década de 1960, dentro de ARPA (hoy DARPA, las siglas en inglés de la Defense Advanced Research Projects Agency), como respuesta a la necesidad de esta organización de buscar mejores maneras de usar los computadores de ese entonces, pero enfrentados al problema de que los principales investigadores y laboratorios deseaban tener sus propios computadores, lo que no solo era más costoso, sino que provocaba una duplicación de esfuerzos y recursos. El verdadero origen de Internet 7 nace con ARPANet (Advanced Research Projects Agency Network o Red de la Agencia para los Proyectos de Investigación Avanzada de los Estados Unidos), que nos legó el trazado de una red inicial de comunicaciones de alta velocidad a la cual fueron integrándose otras instituciones gubernamentales y redes académicas durante los años 70.
+
+Investigadores, científicos, profesores y estudiantes se beneficiaron de la comunicación con otras instituciones y colegas en su rama, así como de la posibilidad de consultar la información disponible en otros centros académicos y de investigación. De igual manera, disfrutaron de la nueva habilidad para publicar y hacer disponible a otros la información generada en sus actividades.
+
+En el mes de julio de 1961 Leonard Kleinrock publicó desde el MIT el primer documento sobre la teoría de conmutación de paquetes. Kleinrock convenció a Lawrence Roberts de la factibilidad teórica de las comunicaciones vía paquetes en lugar de circuitos, lo cual resultó ser un gran avance en el camino hacia el trabajo informático en red. El otro paso fundamental fue hacer dialogar a los ordenadores entre sí. Para explorar este terreno, en 1965, Roberts conectó una computadora TX2 en Massachusetts con un Q-32 en California a través de una línea telefónica conmutada de baja velocidad, creando así la primera (aunque reducida) red de computadoras de área amplia jamás construida.
+
+1969: La primera red interconectada nace el 21 de noviembre de 1969, cuando se crea el primer enlace entre las universidades de UCLA y Stanford por medio de la línea telefónica conmutada, y gracias a los trabajos y estudios anteriores de varios científicos y organizaciones desde 1959 (ver: Arpanet). El mito de que ARPANET, la primera red, se construyó simplemente para sobrevivir a ataques nucleares sigue siendo muy popular. Sin embargo, este no fue el único motivo. Si bien es cierto que ARPANET fue diseñada para sobrevivir a fallos en la red, la verdadera razón para ello era que los nodos de conmutación eran poco fiables.
+
+1972: Se realizó la Primera demostración pública de ARPANET, una nueva red de comunicaciones financiada por la DARPA que funcionaba de forma distribuida sobre la red telefónica conmutada. El éxito de esta nueva arquitectura sirvió para que, en 1973, la DARPA iniciara un programa de investigación sobre posibles técnicas para interconectar redes (orientadas al tráfico de paquetes) de distintas clases. Para este fin, desarrollaron nuevos protocolos de comunicaciones que permitiesen este intercambio de información de forma "transparente" para las computadoras conectadas. De la filosofía del proyecto surgió el nombre de "Internet", que se aplicó al sistema de redes interconectadas mediante los protocolos TCP e IP.
+
+1983: El 1 de enero, ARPANET cambió el protocolo NCP por TCP/IP. Ese mismo año, se creó el IAB con el fin de estandarizar el protocolo TCP/IP y de proporcionar recursos de investigación a Internet. Por otra parte, se centró la función de asignación de identificadores en la IANA que, más tarde, delegó parte de sus funciones en el Internet registry que, a su vez, proporciona servicios a los DNS.
+
+1986: La NSF comenzó el desarrollo de NSFNET que se convirtió en la principal Red en árbol de Internet, complementada después con las redes NSINET y ESNET, todas ellas en Estados Unidos. Paralelamente, otras redes troncales en Europa, tanto públicas como comerciales, junto con las americanas formaban el esqueleto básico ("backbone") de Internet.
+
+1989: Con la integración de los protocolos OSI en la arquitectura de Internet, se inició la tendencia actual de permitir no sólo la interconexión de redes de estructuras dispares, sino también la de facilitar el uso de distintos protocolos de comunicaciones.
+
+1990: En el CERN de Ginebra, un grupo de físicos encabezado por Tim Berners-Lee creó el lenguaje HTML, basado en el SGML y con él el primer cliente World Wide Web (WWW). A inicios de la década de 1990, con la introducción de nuevas facilidades de interconexión y herramientas gráficas simples para el uso de la red, se inició el auge que actualmente le conocemos al Internet. Este crecimiento masivo trajo consigo el surgimiento de un nuevo perfil de usuarios, en su mayoría de personas comunes no ligadas a los sectores académicos, científicos y gubernamentales. Esto ponía en cuestionamiento la subvención del gobierno estadounidense al sostenimiento y la administración de la red, así como la prohibición existente al uso comercial del Internet. Los hechos se sucedieron rápidamente y para 1993 ya se había levantado la prohibición al uso comercial del Internet y definido la transición hacia un modelo de administración no gubernamental que permitiese, a su vez, la integración de redes y proveedores de acceso privados. El 30 de abril de 1993 la Web entró al dominio público, ya que el CERN entregó las tecnologías de forma gratuita para que cualquiera pudiera utilizarlas.
+
+2006: El 3 de enero, Internet alcanzó los mil cien millones de usuarios. Se prevé que en diez años, la cantidad de navegantes de la Red aumentará a 2000 millones.
+			
+2. Tecnología de internet
+Enrutamiento y capas de servicio
+Los Proveedores de Servicios de Internet (ISP) conectan a clientes, quienes representan la parte más baja en la jerarquía de enrutamiento, con otros clientes de otros ISP a través de capas de red más altas o del mismo nivel. En lo alto de la jerarquía de enrutamiento están las redes de capa 1, grandes compañías de telecomunicaciones que intercambian tráfico directamente con otras a través de acuerdos de interconexión. Redes de capa 2 y de más bajo nivel compran tráfico de Internet de otros proveedores para alcanzar al menos algunas partes del Internet mundial, aunque también pueden participar en la interconexión. Un ISP puede usar un único proveedor para la conectividad o implementar multihoming para conseguir redundancia y balanceo de carga. Los puntos neutros tienen las cargas más importantes de tráfico y tienen conexiones físicas a múltiples ISP.
+
+Los ordenadores y routers utilizan las tablas de enrutamiento para dirigir los paquetes IP entre las máquinas conectadas localmente. Las tablas pueden ser construidas de forma manual o automáticamente a través de DHCP para un equipo individual o un protocolo de enrutamiento para los routers de sí mismos. En un solo homed situaciones, una ruta por defecto por lo general apunta hacia "arriba" hacia un ISP proporciona el transporte. De más alto nivel de los ISP utilizan el Border Gateway Protocol para solucionar rutas de acceso a un determinado rango de direcciones IP a través de las complejas conexiones de la Internet global.
