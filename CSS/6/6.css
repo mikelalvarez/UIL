@@ -1,0 +1,19 @@
+h1
+{
+	color: blue;
+	text-align: center;
+	font-family: "Comic Sans MS";
+}
+
+h1.taldea
+{
+	text-align: left;
+	color: #009933;
+}
+
+ul
+{
+	font-weight: bold;
+	font-size:18pt;
+	text-decoration: overline;	
+}
