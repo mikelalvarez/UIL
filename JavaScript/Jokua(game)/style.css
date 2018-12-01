@@ -1,3 +1,40 @@
 #zenbakia1 {
   color:red;
 }
+
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #0000FF;
+}
+
+p {
+  float:left;
+  width:33.33%;
+  font-size:75px;
+}
+
+div{
+  margin: auto;
+     width: 60%;
+     border: 3px solid #73AD21;
+     padding: 10px;
+}
+
+#button {
+  background-color: #4CAF50;
+  border: 3px solid #73AD21;
+color: white;
+padding: 10px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 2px 2px;
+cursor: pointer;
+width: 100%;
+}
+
+body {
+  background-color: #06bcf9;
+}
