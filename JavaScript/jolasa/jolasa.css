@@ -1,0 +1,13 @@
+body{
+	background: green;
+}
+table{
+	background: grey;
+	margin: auto;
+}
+td{
+	white-space: nowrap;
+}
+.markagailua{
+	text-align: center;
+}
