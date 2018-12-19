@@ -6,10 +6,12 @@ var kokatuta =[];
 var k = 12;
 var biratua1 = "";
 var biratua2 = "";
+var biratutakoID1 = "";
+var biratutakoID2 = "";
 
 function hasiJolasa(){
-	markagailuJ1 = 0;
-	markagailuJ2 = 0;
+	markagailuJ1 = +0;
+	markagailuJ2 = +0;
 	document.getElementById("mJ1").innerHTML = markagailuJ1;
 	document.getElementById("mJ2").innerHTML = markagailuJ2;
 	kartakBanatu();
@@ -23,30 +25,34 @@ function kartakBanatu(){
 		kartaSorta.splice(u, 1);
 		k = k-1;
 	}
-
 }
 
 function biratu(elemnt){
 	elemnt.src = "irudiak/" + kokatuta[elemnt.id] + ".png";
-	document.getElementById("elementua").innerHTML = kokatuta[elemnt.id];
+	if (biratua1 == "") {
+			biratua1 = kokatuta[element.id];
+			biratutakoID1 = element.id;
+		} else {
+			biratua2 = kokatuta[element.id];
+			biratutakoID2 = element.id;
+			konparatu();
+		}
+	}
 
-	if (biratua1=="") {
-		biratua1= kokatuta[element.id]
+function konparatu() {
+	if(biratua1 == biratua2){
+		markagailuJ1 += 1;
+		document.getElementById("mJ1").innerHTML = markagailuJ1;
 	} else {
-
+		markagailuJ1 -=1;
+		elemen.src = "irudiak/galderaIkurra.jpg"
 	}
 }
 
+
 function desberdin(){
-
-
-
 }
-
 function berdin(){
-
 }
-
 function txandaPasa(){
-
 }
