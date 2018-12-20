@@ -8,6 +8,7 @@ var biratua1 = "";
 var biratua2 = "";
 var biratutakoID1 = "";
 var biratutakoID2 = "";
+var delayInMilliseconds = 1000;
 
 function hasiJolasa(){
 	markagailuJ1 = +0;
@@ -27,8 +28,9 @@ function kartakBanatu(){
 	}
 }
 
-function biratu(elemnt){
-	elemnt.src = "irudiak/" + kokatuta[elemnt.id] + ".png";
+function biratu(element){
+
+	element.src = "irudiak/" + kokatuta[element.id] + ".png";
 	if (biratua1 == "") {
 			biratua1 = kokatuta[element.id];
 			biratutakoID1 = element.id;
@@ -41,11 +43,20 @@ function biratu(elemnt){
 
 function konparatu() {
 	if(biratua1 == biratua2){
-		markagailuJ1 += 1;
+		markagailuJ1++;
 		document.getElementById("mJ1").innerHTML = markagailuJ1;
 	} else {
-		markagailuJ1 -=1;
-		elemen.src = "irudiak/galderaIkurra.jpg"
+		markagailuJ1--;
+		biratua1 = "";
+		biratua2 = "";
+		//setTimeout(function() {
+		document.getElementById("mJ1").innerHTML = markagailuJ1;
+		document.getElementById(biratutakoID1).src = "irudiak/galderaIkurra.jpg"
+		document.getElementById(biratutakoID2).src = "irudiak/galderaIkurra.jpg"
+
+	//}, delayInMilliseconds);
+	biratutakoID1 = "";
+	biratutakoID2 = "";
 	}
 }
 
